@@ -1,3 +1,5 @@
+<img src="https://github.com/iRahulGaur/Data-Engineering-Portfolio/blob/main/data_image.png" alt="Data image" width="700"/>
+
 # Data Engineering Portfolio
 
 Welcome to my **Data Engineering Portfolio**! This repository consolidates my work on data pipelines, orchestration, and cloud-based data solutions using **Apache Airflow, Snowflake, and dbt**. It serves as a showcase of my technical skills in designing and implementing scalable data engineering solutions.
