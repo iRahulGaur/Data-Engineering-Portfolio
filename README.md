@@ -45,6 +45,29 @@ This project showcases a modern cloud-based data pipeline using **Snowflake** an
 - **GitHub Actions** for CI/CD pipeline automation
 
 ---
+
+### 3. NLP TF-IDF Preprocessing & Visualization
+**Repository:** [NLP-TF-IDF](https://github.com/iRahulGaur/NLP-TF-IDF)
+
+#### Overview
+This project implements **Natural Language Processing (NLP) techniques** to preprocess text data and visualize word importance using **TF-IDF**. It includes:
+- **Tokenization, Lemmatization, Stopword Removal**
+- **TF-IDF Vectorization & Visualization**
+- **Heatmaps, PCA Scatter Plots, and Word Clouds**
+- **Python-based Jupyter Notebook Implementation**
+
+#### Tech Stack
+- **Python** for NLP processing
+- **NLTK** for text preprocessing
+- **Scikit-learn** for TF-IDF vectorization
+- **Matplotlib & Seaborn** for visualization
+- **WordCloud** for word cloud generation
+
+#### Example Visualization:
+![TF-IDF Word Cloud](https://github.com/iRahulGaur/NLP-TF-IDF/blob/main/screenshot.png?raw=true)
+
+---
+
 ## Contact
 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/irahulgaur)** or reach out via email at **rahul.gaur152@gmail.com** for any queries or collaboration opportunities.
 
